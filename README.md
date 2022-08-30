@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Huan
 
-- 🌱 Estudando: tecnologias front-end e Python
+- 🌱 Estudando: tecnologias front-end
 - 😄 Pronouns: ele/dele
 
 <div align="center">
