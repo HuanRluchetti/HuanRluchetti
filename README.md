@@ -1,8 +1,5 @@
 ## Olá! Eu sou o Huan
 
-- 🌱 Estudando: tecnologias front-end
-- 😄 Pronouns: ele/dele
-
 <div align="center">
   <a href="https://github.com/HuanRluchetti">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HuanRluchetti&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
