@@ -36,4 +36,5 @@
 <!--![Snake animation](https://github.com/HuanRluchetti/HuanRluchetti/blob/output/github-contribution-grid-snake.svg) -->
 </div>
 
+<!-- https://medium.com/@lucapqg/como-detectar-e-tratar-outliers-com-python-ca2cf088c160 -->
  <!--<div style="display: none"  width="1">https://www.kaggle.com/datasets/alleria2009/dota2-analysis-dataset<div/> -->
